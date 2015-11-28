@@ -1,7 +1,5 @@
 # BDTD3 
-*** Export HTML ***
-*******************
-
+<pre>
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -65,4 +63,4 @@
 </div>
 </body>
 </html>
-<hr/>
+</pre>
