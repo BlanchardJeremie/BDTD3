@@ -1,6 +1,6 @@
 # BDTD3 
 ```html
-<pre>
+
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -64,5 +64,5 @@
 </div>
 </body>
 </html>
-</pre>
+
 ```
