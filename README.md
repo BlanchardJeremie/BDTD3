@@ -1,11 +1,12 @@
 # BDTD3 
+*** Export HTML ***
+*******************
 
 
 <!DOCTYPE html>
 <html lang="fr">
 <head>
 	<title>Météo</title>
-
 	<meta charset="utf-8">	
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<meta name="viewport" content="width=500, initial-scale=1">
@@ -16,7 +17,6 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
-
 <body>
 
 <div id="bloc_page">
@@ -62,8 +62,7 @@
 	<footer>
 		<h3>Footer</h3>
 	</footer>
-
 </div>
-
 </body>
 </html>
+<hr/>
